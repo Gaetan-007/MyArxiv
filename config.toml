@@ -24,6 +24,11 @@ title = "Machine Learning"
 
 [[sources]]
 limit = 150
+category = "cs.DC"
+title = "Distributed, Parallel, and Cluster Computing"
+
+[[sources]]
+limit = 150
 category = "cs.AR"
 title = "Hardware Architecturea"
 
